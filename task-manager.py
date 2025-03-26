@@ -12,19 +12,19 @@ def add_task(name):
 
 def show_tasks():
     if not tasks:
-        print("Belum ada tugas yang ditambahkan.")
+        print("Ga ada tugas nih.")
         return
     print("\nDaftar Tugas:")
     for i, task in enumerate(tasks, 1):
-        status = "✔ Selesai" if task["completed"] else "Belum selesai"
+        status = "Bagus, ga deadlineders" if task["completed"] else "Belum selesai nih, ayo dikerjain dulu"
         print(f"{i}. {task['name']} - Estimasi {task['estimated_time']} menit - Ditambahkan {task['created_at']} - {status}")
 
 def complete_task(index):
     if 1 <= index <= len(tasks):
         tasks[index - 1]["completed"] = True
-        print(f"Tugas '{tasks[index - 1]['name']}' telah diselesaikan!")
+        print(f"Keren, tugas '{tasks[index - 1]['name']}' udah kamu selesein!")
     else:
-        print("Nomor tugas tidak valid!")
+        print("salah masukin nomor kayanya kamu")
 
 def main():
     while True:
@@ -36,19 +36,21 @@ def main():
         choice = input("Pilih menu (1-4): ")
         
         if choice == "1":
-            name = input("Masukkan nama tugas: ")
+            name = input("Ada tugas apa nih kamu: ")
             add_task(name)
         elif choice == "2":
             show_tasks()
+            print("gagean digarap yang belum")
         elif choice == "3":
             show_tasks()
-            index = int(input("Masukkan nomor tugas yang telah selesai: "))
+            index = int(input("kewren kamu, tugas apa tu yg kelar: "))
             complete_task(index)
+            print("cie nambah 1 yang kelar, digarap juga yang lain")
         elif choice == "4":
-            print("Terima kasih, sampai jumpa!")
+            print("okoklah, ciao dan jangan jadi deadlineders!")
             break
         else:
-            print("Pilihan tidak valid, coba lagi!")
+            print("Opsi yang kamu pilih ga ada, coba lagi!")
 
 if __name__ == "__main__":
     main()
