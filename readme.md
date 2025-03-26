@@ -13,11 +13,20 @@ Program ini adalah aplikasi To-Do List sederhana berbasis terminal yang memungki
 1. Pastikan Python sudah terinstall di komputer Anda.
 2. Jalankan script `python3 TUGAS3.py` di terminal anda
 ![Screen Shot 2025-03-26 at 11 23 00](https://github.com/user-attachments/assets/1a94ddc2-897b-4a77-9588-e0f92869a95f)
-3. Pilih menu untuk menambah atau melihat tugas
-   Misal:
-   a. Tambah Tugas
-   ![Screen Shot 2025-03-26 at 11 33 47](https://github.com/user-attachments/assets/b93629b2-2f3a-49cb-9eb5-c001bd96a7fc)
-   b. Lihat Tugas
-   ![Screen Shot 2025-03-26 at 11 30 24](https://github.com/user-attachments/assets/07ebd7bb-d7fb-49cc-a6fe-3ef3b59b3d67)
-   c. Tandai Selesai
-5. Tandai tugas sebagai selesai jika sudah dikerjakan
+3. Pilih menu untuk menambah, melihat tugas, menandai selesai, atau keluar dari program
+Misal:
+a. Tambah Tugas
+![Screen Shot 2025-03-26 at 11 35 57](https://github.com/user-attachments/assets/0aa5b092-3501-4ef5-b64c-785f361aeee9)
+(jika inputannya benar)
+
+![Screen Shot 2025-03-26 at 11 35 41](https://github.com/user-attachments/assets/305c3869-8646-4774-a312-26f4320200df)
+(jika inputannya salah)
+b. Lihat Tugas
+![Screen Shot 2025-03-26 at 11 36 49](https://github.com/user-attachments/assets/b3da5774-7072-4460-88ce-ec57fa73ef2a)
+
+c. Tandai Selesai
+![Screen Shot 2025-03-26 at 11 37 23](https://github.com/user-attachments/assets/6890f7f3-e9df-4273-aa2c-25d088ede50d)
+
+d. Keluar
+![Screen Shot 2025-03-26 at 11 37 36](https://github.com/user-attachments/assets/c284077d-017d-4f98-b741-d7fe64347391)
+
