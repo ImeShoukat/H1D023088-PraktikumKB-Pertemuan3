@@ -18,21 +18,16 @@ Program ini adalah aplikasi To-Do List sederhana berbasis terminal yang memungki
 3. Pilih menu untuk menambah, melihat tugas, menandai selesai, atau keluar dari program
    
 
-Misal:
-
-a. Tambah Tugas
-
-![(Screen Shot 2025-03-26 at 11 35 57](https://github.com/user-attachments/assets/0aa5b092-3501-4ef5-b64c-785f361aeee9))
-(jika inputannya benar)
-
-![Screen Shot 2025-03-26 at 11 35 41](https://github.com/user-attachments/assets/305c3869-8646-4774-a312-26f4320200df)
-(jika inputannya salah)
-b. Lihat Tugas
-![Screen Shot 2025-03-26 at 11 36 49](https://github.com/user-attachments/assets/b3da5774-7072-4460-88ce-ec57fa73ef2a)
-
-c. Tandai Selesai
-![Screen Shot 2025-03-26 at 11 37 23](https://github.com/user-attachments/assets/6890f7f3-e9df-4273-aa2c-25d088ede50d)
-
-d. Keluar
-![Screen Shot 2025-03-26 at 11 37 36](https://github.com/user-attachments/assets/c284077d-017d-4f98-b741-d7fe64347391)
+## Misal:
+a. Tambah Tugas<br>
+![Screen Shot 2025-03-26 at 11 35 57](https://github.com/user-attachments/assets/0aa5b092-3501-4ef5-b64c-785f361aeee9]<br>
+(jika inputannya benar)<br>
+![Screen Shot 2025-03-26 at 11 35 41](https://github.com/user-attachments/assets/305c3869-8646-4774-a312-26f4320200df)<br>
+(jika inputannya salah)<br>
+b. Lihat Tugas<br>
+![Screen Shot 2025-03-26 at 11 36 49](https://github.com/user-attachments/assets/b3da5774-7072-4460-88ce-ec57fa73ef2a)<br>
+c. Tandai Selesai<br>
+![Screen Shot 2025-03-26 at 11 37 23](https://github.com/user-attachments/assets/6890f7f3-e9df-4273-aa2c-25d088ede50d)<br>
+d. Keluar<br>
+![Screen Shot 2025-03-26 at 11 37 36](https://github.com/user-attachments/assets/c284077d-017d-4f98-b741-d7fe64347391)<br>
 
