@@ -40,12 +40,12 @@ def main():
             add_task(name)
         elif choice == "2":
             show_tasks()
-            print("gagean digarap yang belum")
+            print("\ngagean digarap yang belum")
         elif choice == "3":
             show_tasks()
-            index = int(input("kewren kamu, tugas apa tu yg kelar: "))
+            index = int(input("\nkewren kamu, tugas apa tu yg kelar: "))
             complete_task(index)
-            print("cie nambah 1 yang kelar, digarap juga yang lain")
+            print("\ncie nambah 1 yang kelar, digarap juga yang lain")
         elif choice == "4":
             print("okoklah, ciao dan jangan jadi deadlineders!")
             break
