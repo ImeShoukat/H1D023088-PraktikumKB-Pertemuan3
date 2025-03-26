@@ -12,16 +12,17 @@ Program ini adalah aplikasi To-Do List sederhana berbasis terminal yang memungki
 ## Cara Penggunaan🤔
 1. Pastikan Python sudah terinstall di komputer Anda.
 2. Jalankan script berikut di terminal anda:
-    ```sh
+   ```sh
    python3 TUGAS3.py
-![Screen Shot 2025-03-26 at 11 23 00](https://github.com/user-attachments/assets/1a94ddc2-897b-4a77-9588-e0f92869a95f)
-4. Pilih menu untuk menambah, melihat tugas, menandai selesai, atau keluar dari program
+![Screen Shot 2025-03-26 at 11 23 00](https://github.com/user-attachments/assets/1a94ddc2-897b-4a77-9588-e0f92869a95f) 
+3. Pilih menu untuk menambah, melihat tugas, menandai selesai, atau keluar dari program
+   
 
 Misal:
 
 a. Tambah Tugas
 
-![Screen Shot 2025-03-26 at 11 35 57](https://github.com/user-attachments/assets/0aa5b092-3501-4ef5-b64c-785f361aeee9)
+![(Screen Shot 2025-03-26 at 11 35 57](https://github.com/user-attachments/assets/0aa5b092-3501-4ef5-b64c-785f361aeee9))
 (jika inputannya benar)
 
 ![Screen Shot 2025-03-26 at 11 35 41](https://github.com/user-attachments/assets/305c3869-8646-4774-a312-26f4320200df)
